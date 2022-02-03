@@ -79,7 +79,7 @@
                 <connectTime>true</connectTime>
               </value>
             </objProp>
-            <stringProp name="filename">.\mildTemperGet.jtl</stringProp>
+            <stringProp name="filename">C:\Users\zekun.li\Workspace\Jmeter\mildTemperGet\mildTemperGet.jtl</stringProp>
           </ResultCollector>
           <hashTree/>
           <ResultCollector guiclass="GraphVisualizer" testclass="ResultCollector" testname="Graph Results" enabled="true">
